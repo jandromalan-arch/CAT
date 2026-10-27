@@ -1,0 +1,8 @@
+{
+  "name": "CAT Master SA",
+  "description": "Comprehensive South African CAT (Grades 10-12) CAPS curriculum companion with offline notes, interactive assessments, video walkthroughs, downloadable PDF guides, peer forum, and progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
